@@ -1,6 +1,6 @@
 -r requirements.txt
 bumpversion==0.5.3
 wheel==0.29.0
-sphinx==1.5.1
+sphinx==1.5.2
 sphinx-rtd-theme==0.1.9
 
