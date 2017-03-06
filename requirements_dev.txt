@@ -2,5 +2,5 @@
 bumpversion==0.5.3
 wheel==0.29.0
 sphinx==1.5.1
-sphinx-rtd-theme==0.1.9
+sphinx-rtd-theme==0.2.3
 
