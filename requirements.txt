@@ -1,4 +1,4 @@
 django>=1.9.7
-requests==2.13.0
+requests==2.18.1
 
 # Additional requirements go here
